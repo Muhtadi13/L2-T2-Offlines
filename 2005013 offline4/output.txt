@@ -1,0 +1,95 @@
+Empty Heap
+Empty Heap
+INSERTED 7
+INSERTED 5
+INSERTED 9
+INSERTED 11
+INSERTED 12
+Printing the binary heap...
+- - - - - - - - - - - - - - - - - - - -
+level 0: 5 
+level 1: 7 9 
+level 2: 11 12 
+- - - - - - - - - - - - - - - - - - - -
+ExtractMin returned 5
+Printing the binary heap...
+- - - - - - - - - - - - - - - - - - - -
+level 0: 7 
+level 1: 11 9 
+level 2: 12 
+- - - - - - - - - - - - - - - - - - - -
+ExtractMin returned 7
+Printing the binary heap...
+- - - - - - - - - - - - - - - - - - - -
+level 0: 9 
+level 1: 11 12 
+- - - - - - - - - - - - - - - - - - - -
+ExtractMin returned 9
+Printing the binary heap...
+- - - - - - - - - - - - - - - - - - - -
+level 0: 11 
+level 1: 12 
+- - - - - - - - - - - - - - - - - - - -
+ExtractMin returned 11
+ExtractMin returned 12
+Printing the binary heap...
+- - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - -
+Empty Heap
+Empty Heap
+INSERTED 14
+INSERTED 12
+INSERTED 16
+INSERTED 13
+INSERTED 11
+INSERTED 19
+ExtractMin returned 11
+ExtractMin returned 12
+ExtractMin returned 13
+ExtractMin returned 14
+ExtractMin returned 16
+INSERTED 25
+INSERTED 100
+INSERTED 200
+INSERTED 300
+INSERTED 400
+INSERTED 500
+INSERTED 600
+INSERTED 700
+INSERTED 800
+ExtractMin returned 19
+ExtractMin returned 25
+ExtractMin returned 100
+ExtractMin returned 200
+ExtractMin returned 300
+Printing the binary heap...
+- - - - - - - - - - - - - - - - - - - -
+level 0: 400 
+level 1: 500 700 
+level 2: 600 800 
+- - - - - - - - - - - - - - - - - - - -
+INSERTED 12
+INSERTED 16
+INSERTED 13
+INSERTED 11
+INSERTED 19
+INSERTED 25
+INSERTED 100
+INSERTED 200
+INSERTED 300
+Printing the binary heap...
+- - - - - - - - - - - - - - - - - - - -
+level 0: 11 
+level 1: 12 16 
+level 2: 13 19 100 300 
+level 3: 600 500 800 25 700 200 400 
+- - - - - - - - - - - - - - - - - - - -
+800 decreased to 5
+number not found
+Printing the binary heap...
+- - - - - - - - - - - - - - - - - - - -
+level 0: 5 
+level 1: 11 16 
+level 2: 13 12 100 300 
+level 3: 600 500 19 25 700 200 400 
+- - - - - - - - - - - - - - - - - - - -

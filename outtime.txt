@@ -1,0 +1,5 @@
+operation time(ms)
+insert 6.0009999999999994458
+delete 11.000999999999999446
+searchtime 1
+trav 0

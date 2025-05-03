@@ -1,0 +1,50 @@
+10
+10()(11)
+false
+10(6)(11)
+true
+10(6(4)())(11)
+true
+10(6(4)())(11()(17))
+10(6(4)(8))(11()(17))
+10(6(4)(8(7)()))(11()(17))
+10(6(4)(8(7)()))(11()(17()(21)))
+10(6(4)(8(7)(9)))(11()(17()(21)))
+4 6 7 8 9 10 11 17 21 
+10 6 4 8 7 9 11 17 21 
+4 7 9 8 6 21 17 11 10 
+true
+10(6(4)(8(7)()))(11()(17()(21)))
+false
+Invalid Operation
+true
+Invalid Operation
+Invalid Operation
+10(6()(8(7)()))(11()(17()(21)))
+6 7 8 10 11 17 21 
+10 6 8 7 11 17 21 
+7 8 6 21 17 11 10 
+Invalid Operation
+Invalid Operation
+10(6()(8))(11()(17()(21)))
+10(6()(8))(11()(17))
+Number doesn't exist
+Number doesn't exist
+10(6()(8))(11)
+10(6()(8))()
+10(6)()
+10
+Tree is Empty
+Tree is Empty
+Tree is Empty
+Tree is Empty
+Tree is Empty
+false
+false
+69
+69(68)()
+true
+true
+68 69 
+69 68 
+68 69 
